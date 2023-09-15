@@ -1,0 +1,44 @@
+h1{
+    font-size: 70px;
+    text-align: center;
+    color: darkblue;
+    padding: 15px;
+    border: 5px solid darkcyan;
+    margin: 10px;
+}
+body{
+    background-image:linear-gradient(to top, red,blue,orange,yellow) ;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+p{
+    color: aquamarine;
+}
+#i1{
+    float: left;
+}
+#i2{
+    float: right;
+}
+h2{
+    font-size: 35px;
+    color: aquamarine;
+}
+form{
+    text-align: center;
+}
+label{
+    width: 20px;
+    height: 15px;
+    background-color: blue;
+    color: red;
+}
+input{
+    color: red;
+}
+button{
+    background-color: red;
+    color: blue;
+    width: 150px;
+    height: 50px;
+}
